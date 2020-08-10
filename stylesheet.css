@@ -1,0 +1,75 @@
+header {
+  height:100px;
+  width:100%;
+  background-color: #47B39D;
+  color: white;
+}
+
+header p {
+  line-height: 100px;
+  float: left;
+  font-size: 30px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: #02ccba;
+}
+
+.select {
+  color:red;
+}
+
+.No.1 {
+  width:100%;
+}
+
+.hollow {
+  width:100%;
+}
+
+.hollow2 {
+  width:100%;
+}
+
+img {
+  width:100%;
+}
+
+h1 {
+  font-size:60px;
+}
+
+h4,h6,h9,h11,h12,h13 {
+  font-size: 40px;
+}
+
+.type {
+  color: red;
+}
+
+.caution  {
+  font-size: 40px;
+  color: #c83e36;
+}
+
+.tukihakoimg {
+  width: 50%;
+}
+
+.tukipakooya {
+  display: flex;
+}
+
+.tukipakoko {
+  padding-top: 240px
+}
+
+.aozakikuonnzi {
+  width: 50%;
+}
+
+.aozakikuonnzi {
+  float: left;
+}
